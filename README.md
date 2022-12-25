@@ -10,7 +10,8 @@ Lighthouse-role
 
 ### Переменные
 
-В [defaults](./defaults/main.yml) указана версия Nginx 1.18.0, 
+В [defaults](./defaults/main.yml) указана версия Nginx 1.18.0
+
 В [vars](./vars/main.yml) указан порт Lighthouse, по умолчанию 80.
 
 ### Зависимости
